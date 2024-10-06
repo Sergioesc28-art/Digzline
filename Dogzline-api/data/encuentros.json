@@ -1,0 +1,23 @@
+{
+    "encuentros": [
+      {
+        "id": 1,
+        "fecha": "2024-09-16",
+        "ubicacion": {
+          "lugar": "Francisco de Montejo II Parque La Rampa",
+          "direccion": "Calle 47 x 42 y 46"
+        },
+        "participantes": [1, 2]
+      },
+      {
+        "id": 2,
+        "fecha": "2024-09-20",
+        "ubicacion": {
+          "lugar": "San Sebastián",
+          "direccion": "Calle 85 x 78 y 80"
+        },
+        "participantes": [3, 4]
+      }
+    ]
+  }
+  
